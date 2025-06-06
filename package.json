@@ -12,15 +12,15 @@
     "lint": "eslint src/**/*.js",
     "lint:fix": "eslint src/**/*.js --fix"
   },
-  "author": "morty <silenceboychen@gmail.com>",
+  "author": "phpcyy <phpcyy@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/silenceboychen/woodfish.git"
+    "url": "git+https://github.com/phpcyy/woodfish.git"
   },
-  "homepage": "https://github.com/silenceboychen/woodfish",
+  "homepage": "https://github.com/phpcyy/woodfish",
   "bugs": {
-    "url": "https://github.com/silenceboychen/woodfish/issues"
+    "url": "https://github.com/phpcyy/woodfish/issues"
   },
   "devDependencies": {
     "electron": "^28.0.0",
